@@ -12,5 +12,7 @@ public class Main {
         t1.withdraw(WidthdrawAmount);
         t1.Balance();
         System.out.println(t1.toString());
+
+        sc.close();
     }
 }
